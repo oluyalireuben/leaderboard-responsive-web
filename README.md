@@ -6,7 +6,7 @@ HTML CSS Leaderboard responsive website
 -CSS
 
 
-/ <b> <br>USAGE: <br> </b>/
+ <b> <br>USAGE: <br> </b>
 Clone the repository and open it in any HTML Editor.
 
 
