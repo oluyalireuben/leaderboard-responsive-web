@@ -1,1 +1,1 @@
-HTML CSS Leaderboard responsive website
+HTML CSS Leaderboard responsive website.
